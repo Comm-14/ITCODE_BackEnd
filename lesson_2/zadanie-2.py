@@ -1,10 +1,8 @@
 def replace_h(input_str):
-    first_h_index = input_str.find('h')
-    last_h_index = input_str.rfind('h')
-    if first_h_index == -1 or first_h_index == last_h_index:
-        return input_str
-    replaced_str = input_str[:first_h_index + 1] + input_str[first_h_index + 1:last_h_index].replace('h','H') + input_str[last_h_index:]
-    return replaced_str
+    first_h = input_str.find('h')
+    last_h = input_str.rfind('h')
+    replaced = input_str[:first_h + 1] + input_str[first_h + 1:last_h].replace('h','H') + input_str[last_h:]
+    return replaced
 def main():
     input_str = input("Введите строку: ")
     modified_str = replace_h(input_str)

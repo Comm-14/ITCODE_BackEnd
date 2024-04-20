@@ -5,25 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74ff923e-0414-449f-9fa9-73182204b392" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ITCODE_BackEnd.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/zadanie-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/zadanie_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/zadanie_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/zadanie_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/zadanie_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/zadanie_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/zadanie_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/zadanie_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/zadanie_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/zadanie_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/zadanie_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/zadanie_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_2/zadanie_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/zadanie_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/zadanie_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/zadanie_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/zadanie_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/zadanie_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/zadanie_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/zadanie_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/zadanie_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/zadanie_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_3/zadanie_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/zadanie-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/zadanie-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/zadanie_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/zadanie_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/zadanie_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/zadanie_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/zadanie_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/zadanie_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/zadanie_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/zadanie_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/zadanie_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/zadanie_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/zadanie_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/zadanie_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/zadanie_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/zadanie_9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +40,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2fC0JvGRGmcFqwEYkUutHoU3qRv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -54,12 +54,16 @@
     "Python.main.executor": "Run",
     "Python.zadanie-1.executor": "Run",
     "Python.zadanie-2.executor": "Run",
+    "Python.zadanie_1.executor": "Run",
     "Python.zadanie_10.executor": "Run",
     "Python.zadanie_11.executor": "Run",
     "Python.zadanie_12.executor": "Run",
     "Python.zadanie_13.executor": "Run",
     "Python.zadanie_14.executor": "Run",
+    "Python.zadanie_15.executor": "Run",
+    "Python.zadanie_2.executor": "Run",
     "Python.zadanie_3.executor": "Run",
+    "Python.zadanie_4 (1).executor": "Run",
     "Python.zadanie_4.executor": "Run",
     "Python.zadanie_5.executor": "Run",
     "Python.zadanie_6.executor": "Run",
@@ -70,7 +74,7 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.zadanie_15">
+  <component name="RunManager" selected="Python.zadanie_10">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ITCODE_BackEnd" />
       <option name="ENV_FILES" value="" />
@@ -93,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zadanie_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zadanie_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ITCODE_BackEnd" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_2/zadanie_11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_3/zadanie_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zadanie_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zadanie_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ITCODE_BackEnd" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_2/zadanie_12.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_3/zadanie_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zadanie_13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zadanie_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ITCODE_BackEnd" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_2/zadanie_13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_3/zadanie_7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zadanie_14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zadanie_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ITCODE_BackEnd" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,11 +172,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_2/zadanie_14.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_3/zadanie_8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zadanie_15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="zadanie_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ITCODE_BackEnd" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,11 +194,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_2/zadanie_15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_3/zadanie_9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.zadanie_15" />
-        <item itemvalue="Python.zadanie_14" />
-        <item itemvalue="Python.zadanie_13" />
-        <item itemvalue="Python.zadanie_12" />
-        <item itemvalue="Python.zadanie_11" />
+        <item itemvalue="Python.zadanie_10" />
+        <item itemvalue="Python.zadanie_9" />
+        <item itemvalue="Python.zadanie_8" />
+        <item itemvalue="Python.zadanie_7" />
+        <item itemvalue="Python.zadanie_6" />
       </list>
     </recent_temporary>
   </component>

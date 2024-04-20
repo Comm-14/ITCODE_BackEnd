@@ -1,13 +1,13 @@
 def count_words(input_str):
     count = 0
-    in_word = False
+    k = 0
     for char in input_str:
-        if char == ' ' and in_word:
+        if char == ' ' and k == 1:
             count += 1
-            in_word = False
+            k = 0
         elif not char == ' ':
-            in_word = True
-    if in_word:
+            k = 1
+    if k == 1:
         count += 1
 
     return count
